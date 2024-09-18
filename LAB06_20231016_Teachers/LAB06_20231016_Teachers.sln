@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB06_20231016_Teachers", "LAB06_20231016_Teachers\LAB06_20231016_Teachers.csproj", "{3633BACF-A76C-4496-9961-BE35D6FB64C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{BDDB5D2E-C232-4200-AF57-BF0CCFE6765F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3633BACF-A76C-4496-9961-BE35D6FB64C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3633BACF-A76C-4496-9961-BE35D6FB64C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3633BACF-A76C-4496-9961-BE35D6FB64C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3633BACF-A76C-4496-9961-BE35D6FB64C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDB5D2E-C232-4200-AF57-BF0CCFE6765F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDB5D2E-C232-4200-AF57-BF0CCFE6765F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDB5D2E-C232-4200-AF57-BF0CCFE6765F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDB5D2E-C232-4200-AF57-BF0CCFE6765F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75F03ABC-822D-4783-9743-5E2E68C0AF56}
+	EndGlobalSection
+EndGlobal
